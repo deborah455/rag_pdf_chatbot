@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Envs
+venv/
+.env
+.env.*
+
+# IDE / OS junk
+.vscode/
+.idea/
+.DS_Store
+
+# Byte-compiled
+*.log
